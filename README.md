@@ -44,7 +44,7 @@ admin.site.register(Student,StudentAdmin)
 
 ## OUTPUT
 SERVER OUTPUT
-![server output](https://user-images.githubusercontent.com/121418444/232552697-79c7e249-e2bd-4fae-94cb-22e7c9f632e5.jpg)
+![server output 1](https://user-images.githubusercontent.com/121418444/232555509-88b6da96-bfb2-4297-84e2-4804a1344519.jpg)
 
 CLIENT OUTPUT
 ![2023-04-06 (1)](https://user-images.githubusercontent.com/121418444/232555039-03da4fe4-317a-4096-a1b2-3233e72e2cc5.jpg)
